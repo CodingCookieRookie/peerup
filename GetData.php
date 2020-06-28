@@ -1,8 +1,8 @@
 <?php
 	$host = 'localhost';
-	$username = 'id13822073_orbital_access';
-	$dbPass = 'Hellop@nda123';
-	$dbName = 'id13822073_orbital';
+	$username = 'orbitalu_unsorted';
+	$dbPass = 'unsorted123';
+	$dbName = 'orbitalu_unsorted';
 
 	$con = mysqli_connect($host, $username, $dbPass, $dbName);
 	if(mysqli_connect_errno()) {
