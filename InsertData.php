@@ -1,5 +1,5 @@
 <?php
-	$host = 'localhost';
+	$host = '144.217.241.178';
 	$username = 'orbitalu_unsorted';
 	$dbPass = 'unsorted123';
 	$dbName = 'orbitalu_unsorted';
